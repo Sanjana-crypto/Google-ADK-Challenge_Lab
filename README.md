@@ -1,24 +1,133 @@
-## What I Learned
+# Google ADK Challenge Lab
 
-* Built and configured AI agents using Google Agent Development Kit (ADK).
-* Integrated Gemini 3.5 Flash with AI agents on Google Cloud.
-* Configured Agent Platform using environment variables and cloud-based authentication.
-* Implemented structured output validation using Pydantic models.
-* Enforced JSON schema outputs for reliable and predictable AI responses.
-* Controlled agent behavior using transfer restrictions and workflow constraints.
-* Worked with Sequential Agents and multi-agent architectures.
-* Restored a Critic–Reviser multi-agent pipeline for content auditing and correction.
-* Enabled Google Search integration for real-time information retrieval.
-* Used Cloud Shell and Google Cloud Console for agent development and testing.
-* Implemented request and response logging using callback functions and Google Cloud Logging.
-* Tested, debugged, and validated AI agent workflows in a cloud environment.
-* Gained hands-on experience with prompt engineering, agent orchestration, and structured AI outputs.
+## Overview
 
-### Skills Acquired
+This repository contains my hands-on work and learning outcomes from the **Google Cloud Engineer AI Agents with Agent Development Kit (ADK) Challenge Lab**.
 
-Google ADK • Gemini 3.5 Flash • Python • Pydantic • Multi-Agent Systems • Agent Orchestration • Structured Output Validation • Prompt Engineering • Google Cloud • Cloud Shell • Cloud Logging • AI Agent Development
+During this lab, I built and tested multiple AI agents using Google's Agent Development Kit (ADK), integrated Gemini models, configured Agent Platform environments, implemented structured outputs using Pydantic, and worked with multi-agent workflows.
 
-### Achievement
+---
 
-Successfully completed the Google Cloud "Engineer AI Agents with Agent Development Kit (ADK)" Challenge Lab and earned the official Google Skill Badge with a score of 100/100.
+## Skills Learned
 
+### Task 1 - Build an AI Agent
+
+- Created an AI agent using Google ADK.
+- Configured Agent Platform environment variables.
+- Integrated Gemini 3.5 Flash model.
+- Executed agents using ADK Runner.
+- Managed agent sessions and user interactions.
+
+### Task 2 - Google Search Agent
+
+- Built a search-enabled AI agent.
+- Connected Google Search tools with ADK.
+- Retrieved and summarized web information.
+- Tested real-time information retrieval workflows.
+
+### Task 3 - Geo Validator Agent
+
+- Implemented structured outputs using Pydantic.
+- Created JSON schema validation.
+- Enforced strict response formats.
+- Configured model constraints and validation rules.
+- Used callbacks for logging model requests and responses.
+
+### Task 4 - Agent Platform Configuration
+
+- Configured Agent Platform using environment variables.
+- Connected ADK with Google Cloud services.
+- Used enterprise Gemini deployment settings.
+- Managed project and location configurations.
+
+### Task 5 - Multi-Agent Brochure Auditor
+
+- Worked with Sequential Agents.
+- Implemented Critic Agent workflow.
+- Restored Reviser Agent functionality.
+- Built a complete multi-agent pipeline.
+- Verified factual claims using agent collaboration.
+- Tested agent-to-agent workflow execution.
+
+---
+
+## Technologies Used
+
+- Python
+- Google Agent Development Kit (ADK)
+- Gemini 3.5 Flash
+- Google Cloud
+- Agent Platform
+- Pydantic
+- AsyncIO
+- Cloud Logging
+
+---
+
+## Key Concepts Practiced
+
+- AI Agents
+- Multi-Agent Systems
+- Sequential Agents
+- Structured Outputs
+- JSON Schema Validation
+- Agent Sessions
+- Prompt Engineering
+- Tool Calling
+- Workflow Orchestration
+- Fact Verification
+- Agent Collaboration
+- Cloud-Based AI Deployment
+
+---
+
+## Screenshots
+
+### Challenge Lab Home Page
+
+![Home Page](Home_Page.png)
+
+---
+
+### Geo Validator Agent
+
+![Geo Validator](Geo-validator-code.png.png)
+
+---
+
+### Google Search Agent
+
+![Google Search Agent](google-search-agent.png)
+
+---
+
+### Multi-Agent Brochure Auditor
+
+![LLM Auditor](llm-auditor.png)
+
+---
+
+### Skill Badge
+
+![Skill Badge](Skill-Badge.png)
+
+---
+
+## Achievement
+
+- Successfully completed the **Google Cloud Engineer AI Agents with Agent Development Kit (ADK) Challenge Lab**
+- Achieved **100/100 Score**
+- Earned the **Google Cloud Skill Badge**
+- Gained hands-on experience with AI agent development and multi-agent systems.
+
+---
+
+## Author
+
+**Sanjana M**
+
+BE - Artificial Intelligence and Machine Learning
+
+Aspiring SOC Analyst | Cybersecurity & AI Enthusiast
+
+GitHub: https://github.com/Sanjana-crypto
